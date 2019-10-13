@@ -52,3 +52,11 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+    background: #7777;
+    text-align: center;
+    padding: 1em;
+    border: 3px solid  rgba(0,0,0,0.5);
+}
